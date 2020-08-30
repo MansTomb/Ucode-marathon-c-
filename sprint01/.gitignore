@@ -1,0 +1,12 @@
+*Store*
+*.txt
+cmake-build-debug
+.idea
+!CMakeLists.txt
+t??/build/*
+workspace.xml
+modules.xml
+test.iml
+vcs.xml
+misc.xml
+sprint0?.iml
